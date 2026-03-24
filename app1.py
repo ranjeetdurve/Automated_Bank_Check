@@ -195,4 +195,3 @@ elif page == "Bar Chart":
                 plt.xticks(rotation=45)
                 st.pyplot(fig2)
                 
->>>>>>> 64d0d2ad11b1ee3d0b536203bebcea160c716de4
